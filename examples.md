@@ -1,4 +1,4 @@
-## Grace Hopper
+## Grace Hopper thing
 
 >  They started talking about circuits that acted in 
 nanoseconds, billionths of a second. Oh, I didn't know 
