@@ -1,4 +1,4 @@
-# ruby-calculator
+# quoting and markdowns
 
 This repository is a compilation of speeches and quotes 
 from renowned technology advocates and contributors 
