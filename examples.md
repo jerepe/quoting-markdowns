@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 ## Grace Hopper thing
 
 >  They started talking about circuits that acted in 
+=======
+### Grace Hopper - Nanoseconds
+
+> > They started talking about circuits that acted in 
+>>>>>>> edits
 nanoseconds, billionths of a second. Oh, I didn't know 
 what a billion was, I don't think most of those men 
 downtown know what a billion is either, and, ah, if you 
@@ -46,6 +52,7 @@ number of nanoseconds.
 > > You see, you can explain these things, it's really 
 very helpful, so be sure to get your nanoseconds.
 
+<<<<<<< HEAD
 > > We must include in any language with which we hope to 
 describe complex data-processing situations the 
 capability for describing data. We must also include a 
@@ -67,6 +74,10 @@ permission.
 arithmetic; they could not do programs.
 
 ## Edsger Dijkstra
+=======
+
+### Edsger Dijkstra - The Humble Programmer
+>>>>>>> edits
 
 > > As a result of a long sequence of coincidences I 
 entered the programming profession officially on the 
@@ -93,6 +104,7 @@ become....., yes what? A programmer? But was that a
 respectable profession? For after all, what was 
 programming? Where was the sound body of knowledge that 
 could support it as an intellectually respectable 
+<<<<<<< HEAD
 discipline? I remember quite vividly how I envied my 
 hardware colleagues, who, when asked about their 
 professional competence, could at least point out that 
@@ -116,9 +128,53 @@ advice to younger people; sometimes they follow it!
 ...
 
 ## Alan Turing
+=======
+discipline? 
+> > I remember quite vividly how I envied my hardware 
+colleagues, who, when asked about their professional 
+competence, could at least point out that they knew 
+everything about vacuum tubes, amplifiers and the rest, 
+whereas I felt that, when faced with that question, I 
+would stand empty-handed. Full of misgivings I knocked on 
+van Wijngaarden's office door, asking him whether I could 
+"speak to him for a moment"; when I left his office a 
+number of hours later, I was another person. For after 
+having listened to my problems patiently, he agreed that 
+up till that moment there was not much of a programming 
+discipline, but then he went on to explain quietly that 
+automatic computers were here to stay, that we were just 
+at the beginning and could not I be one of the persons 
+called to make programming a respectable discipline in 
+the years to come? 
+> > This was a turning point in my life and I completed 
+my study of physics formally as quickly as I could. One 
+moral of the above story is, of course, that we must be 
+very careful when we give advice to younger people; 
+sometimes they follow it!
+
+### Alan Turing - Intelligent Machinery (1948)
+>>>>>>> edits
 
 > A man provided with paper, pencil, and rubber, and 
 subject to strict discipline, is in effect a universal 
 machine.
+<<<<<<< HEAD
 
+=======
+> ...
+> If we are trying to produce an intelligent machine, and 
+are following the human model as closely as we can we 
+should begin with a machine with very little capacity to 
+cary out elaborate operations or to react in a 
+disciplined manner to orders (taking the form of 
+interference). Then by applying appropriate interference, 
+mimicking education, we should hope to modify the machine 
+until it could be relied on to produce definite reactions 
+to certain ccommands. This would be the beginning of
+> the process. I will not attempt to follow it further 
+now.
+> ...
+> The new form of the problem can be described in terms 
+of a game which we call the 'imitation game'.
+>>>>>>> edits
 
